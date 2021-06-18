@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895176124191",
+    "project_id": "api-notif",
+    "storage_bucket": "api-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895176124191:android:a76e59ebb00e6fcbfb322a",
+        "android_client_info": {
+          "package_name": "com.mad.presensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895176124191-4sbibirq1l8s89n8malc8pm8gn9p10ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhFNmxmDePfwqwXn7-x7-1y5BPot5max0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895176124191-4sbibirq1l8s89n8malc8pm8gn9p10ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
